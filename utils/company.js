@@ -1,0 +1,1 @@
+export const company=[{name:'jne',},{name:'pos',},{name:'jnt',},{name:'sicepat',},{name:'tiki',},{name:'lion',},]
